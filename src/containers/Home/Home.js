@@ -1,5 +1,4 @@
 import React from 'react';
-import {VideoPreview} from '../../containers/VideoPreview/VideoPreview';
 import './Home.scss';
 import {VideoGrid} from '../../components/VideoGrid/VideoGrid';
 import {SideBar} from '../SideBar/SideBar';
